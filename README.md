@@ -24,7 +24,9 @@ const meer = {
 <!-- - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Developer
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old. 
 - 🎮 I enjoy playing Open-World, FPS Games, Adventure, Platformer <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>     -->
-I'm a Discord.JS, Android, iOS, Website developer. I enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>.
+I'm a Software Engineer | Discord.JS, Android, iOS, Web developer. <br />
+I love learning new skills, new languages, new tools, or anything makes me use my brain hard :3 <br />
+I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>.
 
 
 <h3>Things I code with</h3>
@@ -66,9 +68,7 @@ I'm a Discord.JS, Android, iOS, Website developer. I enjoy playing Open-World, F
 No repositories to add here, soon...
 
 <br/>
-<img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
-
-<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Elysia* </sub>
+<img src="https://i.imgur.com/JgHTZVd.gif" width="500" align="center" /><br/>
 </div>
 
 ## Discord
