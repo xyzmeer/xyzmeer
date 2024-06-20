@@ -1,6 +1,6 @@
 #
 <div>
-<img src="https://i.imgur.com/fgSLbeG.png" width="300" align="right" />
+<img src="https://i.imgur.com/4fHtyUk.png" width="300" align="right" />
 <br/>
 <img src="https://i.imgur.com/n9IdmMW.png" width="500" />
 <br/>
@@ -61,7 +61,7 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="htt
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
-<img src="https://i.imgur.com/LJ02f8h.png" width="500" />
+<img src="https://i.imgur.com/YmMvy2C.png" width="500" />
 <br/>
 <br/>
   
