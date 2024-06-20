@@ -5,6 +5,21 @@
 <img src="https://i.imgur.com/ePNxq4P.png" width="500" />
 <br/>
 <br/>
+
+<h2>
+    Hi, I'm Meer!
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const meer = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, Kotlin, Dart, Lua],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Android-Studio, Flutter],
+}
+```
   
 - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Developer
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old. 
