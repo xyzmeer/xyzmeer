@@ -46,14 +46,7 @@
 <br/>
 <br/>
   
-- 📗 [***aiko-chan-ai/discord.js-selfbot-v13***](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) <br/>
-  An unofficial discord.js fork for creating selfbots
-- 📘 [***aiko-chan-ai/DiscordBotClient***](https://github.com/aiko-chan-ai/DiscordBotClient) <br/>
-  A patched version of discord, with bot login support
-- 📙 [***aiko-chan-ai/N0va-Desktop-File-Converter***](https://github.com/aiko-chan-ai/N0va-Desktop-File-Converter) <br/>
-  Extract videos and photos from NovaDesktop
-- 📕 [***aiko-chan-ai/Discord-Markdown***](https://github.com/aiko-chan-ai/Discord-Markdown) <br/>
-  Better Markdown to text chat Discord.
+No repositories to add here, soon...
 
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
