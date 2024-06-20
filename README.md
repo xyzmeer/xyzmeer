@@ -1,13 +1,13 @@
 #
 <div>
-<img src="https://i.imgur.com/xhZ1Nfa.png" style='border-radius: 50%' width="300" align="right" />
+<img src="https://i.imgur.com/fgSLbeG.png" width="300" align="right" />
 <br/>
 <img src="https://i.imgur.com/ePNxq4P.png" width="500" />
 <br/>
 <br/>
 
 <h2>
-    Hi, I'm Meer!
+    Hi, I'm Meer AKA Mutelove!
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
@@ -16,14 +16,16 @@
 ```javascript
 const meer = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, Kotlin, Dart, Lua],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Android-Studio, Flutter],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Dart, Lua],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Android-Studio, Flutter, Figma],
 }
 ```
   
-- <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Developer
+<!-- - <img src="https://i.imgur.com/SuSbRGN.png" alt="." width="16" height="16"/> Discord.js Developer
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I am 1x years old. 
-- 🎮 I enjoy playing Open-World, FPS Games, Adventure, Platformer <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>    
+- 🎮 I enjoy playing Open-World, FPS Games, Adventure, Platformer <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>     -->
+I'm a Discord.JS, Android, iOS, Website developer. I enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="https://i.imgur.com/YN1z4ON.png" alt="."/>.
+
 
 <h3>Things I code with</h3>
 <p>
