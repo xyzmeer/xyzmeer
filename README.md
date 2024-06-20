@@ -2,7 +2,7 @@
 <div>
 <img src="https://i.imgur.com/fgSLbeG.png" width="300" align="right" />
 <br/>
-<img src="https://i.imgur.com/ePNxq4P.png" width="500" />
+<img src="https://i.imgur.com/8xbxYXO.jpeg" width="500" />
 <br/>
 <br/>
 
@@ -66,7 +66,6 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="htt
 <br/>
   
 No repositories to add here, soon...
-<img src="https://komarev.com/ghpvc/?username=mutelove" alt="views" />
 
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" align="center" /><br/>
@@ -81,7 +80,9 @@ No repositories to add here, soon...
 
 <p>
   <a href="/"  align="left">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=mutelove&theme=dracula&show_icons=true"/>
+    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=mutelove&theme=dracula&show_icons=true"/>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=mutelove" alt="views" />
   </a>
 </p>
 
