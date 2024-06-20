@@ -66,6 +66,7 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="htt
 <br/>
   
 No repositories to add here, soon...
+<img src="https://komarev.com/ghpvc/?username=mutelove" alt="views" />
 
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" align="center" /><br/>
